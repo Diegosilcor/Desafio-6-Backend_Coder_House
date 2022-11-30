@@ -1,0 +1,26 @@
+[
+  {
+    "email": "diegosilvacordoba@hotmail.com",
+    "message": "Hola",
+    "date": "30/11/2022, 08:36:36",
+    "id": 7
+  },
+  {
+    "email": "jimena@hotmail.com",
+    "message": "Hola bien y vos?",
+    "date": "30/11/2022, 08:50:33",
+    "id": 2
+  },
+  {
+    "email": "pablo@hotmail.com",
+    "message": "Hola gente como andan?",
+    "date": "30/11/2022, 08:50:46",
+    "id": 3
+  },
+  {
+    "email": "diegosilvacordoba@hotmail.com",
+    "message": "Buenas a todos",
+    "date": "30/11/2022, 08:51:00",
+    "id": 4
+  }
+]
